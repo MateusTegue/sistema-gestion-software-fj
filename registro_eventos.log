@@ -1,0 +1,19 @@
+[2026-11-21 21:25:28] [INFO] Sistema Software FJ iniciado.
+[2026-11-21 21:25:28] [INFO] Cliente registrado: Cliente[C001] Ana María López - ana@correo.com - 3001234567
+[2026-11-21 21:25:28] [ERROR] Error al registrar cliente: Correo inválido: correo-invalido
+[2026-11-21 21:25:28] [ERROR] Error al registrar cliente: Teléfono inválido: ABC123
+[2026-11-21 21:25:28] [ERROR] Error al registrar cliente: Ya existe un cliente con ID C001.
+[2026-11-21 21:25:28] [INFO] Servicio agregado: ReservaSala[S001] Sala Ejecutiva - Capacidad: 12 - Tarifa/h: $50000.00
+[2026-11-21 21:25:28] [INFO] Servicio agregado: AlquilerEquipo[S003] Laptop Hp - Tipo: Cómputo - Tarifa/h: $30000.00
+[2026-11-21 21:25:28] [INFO] Servicio agregado: AsesoriaEspecializada[S004] Asesoría Java - Área: Programación - Tarifa/h: $80000.00
+[2026-11-21 21:25:28] [INFO] Reserva creada: Reserva[R001] Cliente: Ana María López - Servicio: Sala Ejecutiva - Duración: 3h - Estado: PENDIENTE - Costo: N/A
+[2026-11-21 21:25:28] [INFO] Reserva R001 confirmada. Costo: $150000.00
+[2026-11-21 21:25:28] [INFO] Reserva R001 procesada correctamente.
+[2026-11-21 21:25:28] [INFO] Reserva creada: Reserva[R002] Cliente: Ana María López - Servicio: Asesoría Java - Duración: 2h - Estado: PENDIENTE - Costo: N/A
+[2026-11-21 21:25:28] [INFO] Reserva creada: Reserva[R003] Cliente: Ana María López - Servicio: Laptop Hp - Duración: -2h - Estado: PENDIENTE - Costo: N/A
+[2026-11-21 21:25:28] [INFO] Reserva creada: Reserva[R004] Cliente: Ana María López - Servicio: Laptop Hp - Duración: 5h - Estado: PENDIENTE - Costo: N/A
+[2026-11-21 21:25:28] [INFO] Reserva R004 confirmada. Costo: $157500.00
+[2026-11-21 21:25:28] [INFO] Reserva R004 cancelada.
+[2026-11-21 21:25:28] [INFO] Simulación finalizada correctamente.
+[2026-11-21 21:38:20] [INFO] Sistema Software FJ iniciado.
+[2026-11-21 21:38:37] [ERROR] Error al registrar cliente: Correo inválido: 1111111111111
